@@ -1,4 +1,4 @@
-"# Ponude-AI" 
+" Ponude-AI" 
 Ponude i Nalozi is an internal business management application designed to manage the complete lifecycle of company projects.
 
 The application covers the process from the initial customer offer, through final offer preparation and production initiation, to work order management and project completion.
